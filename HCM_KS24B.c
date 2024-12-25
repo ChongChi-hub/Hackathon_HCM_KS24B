@@ -199,6 +199,7 @@ int main()
                     printf("%d ", arr[i]);
                 }
                 printf("\n");
+                    break;
             
             case 11:
             printf("Thoat MENU!!!");
